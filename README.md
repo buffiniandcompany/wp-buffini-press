@@ -1,2 +1,2 @@
-# wp-buffini-press
-WordPress child theme for press.buffiniandcompany.com
+# wp-buffini-resources
+WordPress child theme for resources.buffiniandcompany.com
